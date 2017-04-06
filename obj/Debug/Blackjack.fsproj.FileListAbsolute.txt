@@ -1,0 +1,8 @@
+c:\users\tino\documents\visual studio 2015\Projects\Blackjack\Blackjack\bin\Debug\Blackjack.exe.config
+c:\users\tino\documents\visual studio 2015\Projects\Blackjack\Blackjack\bin\Debug\Blackjack.XML
+c:\users\tino\documents\visual studio 2015\Projects\Blackjack\Blackjack\bin\Debug\Blackjack.exe
+c:\users\tino\documents\visual studio 2015\Projects\Blackjack\Blackjack\bin\Debug\Blackjack.pdb
+c:\users\tino\documents\visual studio 2015\Projects\Blackjack\Blackjack\bin\Debug\FSharp.Core.dll
+c:\users\tino\documents\visual studio 2015\Projects\Blackjack\Blackjack\bin\Debug\FSharp.Core.xml
+c:\users\tino\documents\visual studio 2015\Projects\Blackjack\Blackjack\obj\Debug\Blackjack.exe
+c:\users\tino\documents\visual studio 2015\Projects\Blackjack\Blackjack\obj\Debug\Blackjack.pdb
